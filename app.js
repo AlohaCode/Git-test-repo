@@ -1,1 +1,1 @@
-console.log('more interesting output');
+console.log('more interesting awful output');
